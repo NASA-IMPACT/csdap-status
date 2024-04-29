@@ -1,4 +1,4 @@
-owner: nasa-impact
+owner: NASA-IMPACT
 repo: csdap-status
 
 sites:
@@ -19,7 +19,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /$REPO
+  baseUrl: /csdap-status
   logoUrl: https://csdap.earthdata.nasa.gov/images/CSDA_logo.png
   name: CSDAP Status
   introTitle: "**CSDAP** status monitor."
