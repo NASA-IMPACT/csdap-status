@@ -29,6 +29,8 @@ status-website:
       href: /
     - title: SDX
       href: https://csdap.earthdata.nasa.gov
+    - title: CSDA Program
+      href: https://www.earthdata.nasa.gov/esds/csda
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
