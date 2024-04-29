@@ -2,7 +2,7 @@ owner: NASA-IMPACT
 repo: csdap-status
 
 sites:
-  - name: SDX
+  - name: Smallsat Data Explorer (SDX)
     url: https://csdap.earthdata.nasa.gov
   - name: STAC API
     url: https://csdap.earthdata.nasa.gov/stac/_mgmt/ping
@@ -16,23 +16,17 @@ sites:
     url: https://csdap.earthdata.nasa.gov/signup
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  # cname: status.csdap.earthdata.nasa.gov
   baseUrl: /csdap-status
   logoUrl: https://csdap.earthdata.nasa.gov/images/CSDA_logo.png
-  name: CSDAP Status
-  introTitle: "**CSDAP** status monitor."
-  introMessage: This page monitors the various services that support the [Commercial Smallsat Data Acquisition (CSDA) Program](https://www.earthdata.nasa.gov/esds/csda).
+  name: CSDA infrastructure monitor
+  introTitle: "**CSDA** program infrastructure monitor."
+  introMessage: Uptime monitor for the various services that support the [Commercial Smallsat Data Acquisition (CSDA) Program](https://www.earthdata.nasa.gov/esds/csda).
   navbar:
-    - title: Status
-      href: /
-    - title: SDX
+    - title: Smallsat Data Explorer
       href: https://csdap.earthdata.nasa.gov
-    - title: CSDA Program
+    - title: CSDA Program Summary
       href: https://www.earthdata.nasa.gov/esds/csda
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
