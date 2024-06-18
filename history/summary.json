@@ -70,7 +70,7 @@
     "timeMonth": 164,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-06-18": 25,
+      "2024-06-18": 944,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -128,18 +128,20 @@
     "url": "https://csdap.earthdata.nasa.gov/api/v1/health/data",
     "icon": "https://icons.duckduckgo.com/ip3/csdap.earthdata.nasa.gov.ico",
     "slug": "orders-api-data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 148,
-    "timeWeek": 162,
-    "timeMonth": 209,
-    "timeYear": 237,
-    "dailyMinutesDown": {}
+    "time": 239,
+    "timeDay": 247,
+    "timeWeek": 185,
+    "timeMonth": 213,
+    "timeYear": 239,
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   },
   {
     "name": "Data Authorization System",
