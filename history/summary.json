@@ -70,7 +70,7 @@
     "timeMonth": 183,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-08-08": 25,
+      "2024-08-08": 856,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
@@ -180,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/csdap.earthdata.nasa.gov.ico",
     "slug": "orders-api-data",
     "status": "up",
-    "uptime": "69.98%",
+    "uptime": "70.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.63%",
-    "uptimeYear": "69.98%",
+    "uptimeMonth": "66.53%",
+    "uptimeYear": "70.15%",
     "time": 282,
     "timeDay": 418,
     "timeWeek": 476,
@@ -229,17 +229,19 @@
     "url": "https://csdap.earthdata.nasa.gov/signup",
     "icon": "https://icons.duckduckgo.com/ip3/csdap.earthdata.nasa.gov.ico",
     "slug": "data-authorization-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 462,
-    "timeWeek": 489,
-    "timeMonth": 526,
-    "timeYear": 496,
-    "dailyMinutesDown": {}
+    "time": 492,
+    "timeDay": 304,
+    "timeWeek": 446,
+    "timeMonth": 514,
+    "timeYear": 492,
+    "dailyMinutesDown": {
+      "2024-08-08": 0
+    }
   }
 ]
