@@ -1,7 +1,7 @@
 url: https://csdap.earthdata.nasa.gov
-status: down
-code: 500
-responseTime: 2164
-lastUpdated: 2024-11-06T23:59:16.483Z
+status: up
+code: 200
+responseTime: 141
+lastUpdated: 2024-11-07T00:30:30.182Z
 startTime: 2024-04-29T16:51:53.002Z
 generator: Upptime <https://github.com/upptime/upptime>
