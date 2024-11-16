@@ -1,7 +1,7 @@
 url: https://csdap.earthdata.nasa.gov/api/v1/health/data
 status: up
 code: 200
-responseTime: 173
-lastUpdated: 2024-11-15T23:03:06.487Z
+responseTime: 162
+lastUpdated: 2024-11-16T23:03:08.168Z
 startTime: 2024-04-29T16:20:28.472Z
 generator: Upptime <https://github.com/upptime/upptime>
