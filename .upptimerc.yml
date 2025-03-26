@@ -13,7 +13,7 @@ sites:
   - name: Orders API - Data
     url: https://csdap.earthdata.nasa.gov/api/v1/health/data
   - name: Data Authorization System
-    url: https://csdap.earthdata.nasa.gov/signup
+    url: https://csdap.earthdata.nasa.gov/signup/
 
 status-website:
   # cname: status.csdap.earthdata.nasa.gov
